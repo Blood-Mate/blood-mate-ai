@@ -1,8 +1,8 @@
 # blood-mate-ai
 
 ## Updates
-- 2023.03.09 Meta AI's LLAMA 7B was used! 
-- 2023.03.11 LLAMA was not good enough.. Changed it to Meta AI's blenderbot 3B model.
+- `2023.03.09` Meta AI's LLAMA 7B was used! 
+- `2023.03.11` LLAMA was not good enough.. Changed it to Meta AI's blenderbot 3B model.
 
 ## Usage
 ### 0. Requirements
